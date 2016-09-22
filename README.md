@@ -15,4 +15,4 @@ Download repo contents and place in a folder called `spacefoam` in Sublime Text'
 
 to your Preferences.sublime-settings file.
 
-This theme will be added to Package Contol in the future for easy access.
+This theme will be added to Package Control in the future for easy access.
